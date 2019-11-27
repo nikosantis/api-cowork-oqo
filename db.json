@@ -1,0 +1,89 @@
+{
+  "sliders": [
+    {
+      "id": 1,
+      "src": "https://res.cloudinary.com/nikosantis/image/upload/v1574883243/cowork-oqo/slide-1_stamim.jpg",
+      "title": "Únete a nuestro espacio creativo",
+      "text": "Si eres una empresa del área de las comunicaciones y estás buscando un lugar para alojar tus ideas y a todo tu equipo, aquí en OQO te ofrecemos lo que estás buscando."
+    },
+    {
+      "id": 2,
+      "src": "https://res.cloudinary.com/nikosantis/image/upload/v1574883243/cowork-oqo/slide-2_zbklom.jpg",
+      "title": "Alto estándar de seguridad",
+      "text": "Estamos ubicados en una de las comunas que ofrecen mayor seguridad a nivel nacional y a la vez, en uno de los mejores sectores comerciales de Santiago para que desarrolles tu actividad con toda tranquilidad."
+    },
+    {
+      "id": 3,
+      "src": "https://res.cloudinary.com/nikosantis/image/upload/v1574883244/cowork-oqo/slide-3_z7ukau.jpg",
+      "title": "Economía colaborativa",
+      "text": "Te ofrecemos un espacio a un costo muy competitivo, pero con el plus de estar inmerso en un ambiente de trabajo altamente creativo y colaborativo."
+    }
+  ],
+  "boxIcons": [
+    {
+      "id": 1,
+      "src": "https://res.cloudinary.com/nikosantis/image/upload/v1574883242/cowork-oqo/Icon-01_iyhr64.jpg",
+      "title": "Espacio",
+      "text": "De 65 m2 en una oficina ubicada en un edificio clase A."
+    },
+    {
+      "id": 2,
+      "src": "https://res.cloudinary.com/nikosantis/image/upload/v1574883242/cowork-oqo/Icon-02_ojynnb.jpg",
+      "title": "Conectividad",
+      "text": "Excelente ubicación a pasos del Metro y grandes avenidas."
+    },
+    {
+      "id": 3,
+      "src": "https://res.cloudinary.com/nikosantis/image/upload/v1574883242/cowork-oqo/Icon-03_uivfte.jpg",
+      "title": "Exclusividad",
+      "text": "15 puestos de trabajo con todo lo que necesitas."
+    },
+    {
+      "id": 4,
+      "src": "https://res.cloudinary.com/nikosantis/image/upload/v1574883242/cowork-oqo/Icon-04_jc4gr7.jpg",
+      "title": "Amplitud",
+      "text": "En una oficina de 580 m2 de baja densidad."
+    },
+    {
+      "id": 5,
+      "src": "https://res.cloudinary.com/nikosantis/image/upload/v1574883243/cowork-oqo/Icon-05_uh0hqv.jpg",
+      "title": "Todo incluido",
+      "text": "Cuentas de luz, agua y gastos comunes."
+    }
+  ],
+  "about": [
+    {
+      "id": 1,
+      "src": "https://res.cloudinary.com/nikosantis/image/upload/v1574883242/cowork-oqo/about-1_wc4kpe.png",
+      "title": "Seguridad",
+      "list": [
+        "Acceso controlado 24/7",
+        "Recepción",
+        "CCTV",
+        "Oficina en altura (lejos de la calle)"
+      ]
+    },
+    {
+      "id": 2,
+      "src": "https://res.cloudinary.com/nikosantis/image/upload/v1574883242/cowork-oqo/about-2_myfysa.png",
+      "title": "Optimiza tu workflow",
+      "list": [
+        "Planta libre de 65 m2 habilitada con muebles",
+        "15 puestos de trabajo exclusivo",
+        "Acceso a 3 salas de reuniones",
+        "Wifi"
+      ]
+    },
+    {
+      "id": 3,
+      "src": "https://res.cloudinary.com/nikosantis/image/upload/v1574883242/cowork-oqo/about-3_gx37ug.png",
+      "title": "Más comodidad",
+      "list": [
+        "Aire acondicionado",
+        "Cocina y comedor",
+        "Aseo",
+        "Estacionamiento para arriendo adicional"
+      ]
+    }
+  ]
+}
