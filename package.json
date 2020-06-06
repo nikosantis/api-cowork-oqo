@@ -17,7 +17,7 @@
   "author": "Nikolas Santis <https://github.com/nikosantis/>",
   "license": "MIT",
   "dependencies": {
-    "apollo-server-express": "^2.9.12",
+    "apollo-server-express": "^2.14.2",
     "bcrypt": "^3.0.7",
     "cors": "^2.8.5",
     "express": "^4.17.1",
